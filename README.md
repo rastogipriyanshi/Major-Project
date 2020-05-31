@@ -8,3 +8,16 @@
 * Using __content-based filtering__, similarity between the cast of input producer and the cast working with the producers similar to input producer is calculated using __cosine-similarity__ and the most similar cast is recommended.
 
 
+### Software Requirements-
+•	Jupyter Notebook
+•	Python 3.7
+•	Sublime Text
+•	MS Excel
+
+### Instructions to execute the code-
+1.	Install Python 3.7 using the following link https://www.python.org/downloads/
+2.	Then install the following modules used in the code – pandas, csv, json, requests, matplotlib, math, sklearn, googlesearch
+3.	After installation, open Idle to run the main.py file which has the code of the proposed model.
+4.	Enter the name of the input production company which needs assistance.
+5.	After giving the input, you will be recommended the set of actors, directors and top profitable  countries.
+
