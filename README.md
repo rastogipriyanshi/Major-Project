@@ -9,10 +9,10 @@
 
 
 ### Software Requirements-
-•	Jupyter Notebook
-•	Python 3.7
-•	Sublime Text
-•	MS Excel
+*	Jupyter Notebook
+* Python 3.7
+* Sublime Text
+* MS Excel
 
 ### Instructions to execute the code-
 1.	Install Python 3.7 using the following link https://www.python.org/downloads/
